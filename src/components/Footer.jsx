@@ -36,7 +36,7 @@ function Footer() {
                     </ul>
                 </div>
                 <div>
-                    <h6 className='font-medium text-gray-200  text-xl'>Solutions</h6>
+                    <h6 className='font-bold text-gray-200  text-xl'>Solutions</h6>
                     <ul className='text-gray-400'>
                         <li className='py-2 text-sm'>Analytics</li>
                         <li className='py-2 text-sm'>Marketing</li>
@@ -45,7 +45,7 @@ function Footer() {
                     </ul>
                 </div>
                 <div>
-                    <h6 className='font-medium text-gray-200  text-xl'>Solutions</h6>
+                    <h6 className='font-bold text-gray-200  text-xl'>Solutions</h6>
                     <ul className='text-gray-400'>
                         <li className='py-2 text-sm'>Analytics</li>
                         <li className='py-2 text-sm'>Marketing</li>
@@ -54,7 +54,7 @@ function Footer() {
                     </ul>
                 </div>
                 <div>
-                    <h6 className='font-medium text-gray-200  text-xl'>Solutions</h6>
+                    <h6 className='font-bold text-gray-200  text-xl'>Solutions</h6>
                     <ul className='text-gray-400'>
                         <li className='py-2 text-sm'>Analytics</li>
                         <li className='py-2 text-sm'>Marketing</li>
